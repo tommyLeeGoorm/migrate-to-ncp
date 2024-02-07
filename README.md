@@ -1,0 +1,1 @@
+set all objects ACL to public-read for NCP migration
